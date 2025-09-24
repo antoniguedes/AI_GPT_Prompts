@@ -4,7 +4,7 @@ In this folder you will find a repository for Prompts templates especifically de
 - [prompts for Coding tasks](https://github.com/antoniguedes/AI_GPT_Prompts/blob/main/Prompts%20Templates/Prompts%20Templates%20-%20Coding.docx)
 - [prompts for Data Analytics tasks](https://github.com/antoniguedes/AI_GPT_Prompts/blob/main/Prompts%20Templates/Prompts%20Templates%20-%20Data%20Analysis.docx)
 - prompts for Learning, for example: [Learning Data Engineering](https://github.com/antoniguedes/AI_GPT_Prompts/blob/main/Prompts%20Templates/Prompts%20Templates%20-%20Learning%20(ex%20Data%20Engineering).docx) or [Learning Data Science tasks](https://github.com/antoniguedes/AI_GPT_Prompts/blob/main/Prompts%20Templates/Prompts%20Templates%20-%20Learning%20(ex%20Data%20Science).docx)  
-...  
+   
 In this README, below is showcased a general ready-to-use Prompt Templates Library for Data Developers to use in their day-to-day work.
 
 # 📚 Prompt Library for Data Developers
